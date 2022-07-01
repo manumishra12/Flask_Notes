@@ -1,5 +1,5 @@
 # Flask Cheat Sheet
-📑 ```A Short cheat-sheet for creating web apps with the Flask framework using the Python language```
+``` 📑 A Short cheat-sheet for creating web apps with the Flask framework using the Python language```
 
 ## Contents
 - [Creating a Simple App](#creating-a-simple-app)
